@@ -2,7 +2,7 @@
 Made With 💖 and Py
 
 ## Youtube Video -
-[![Alt text](https://img.youtube.com/vi/QK2daJjJUy0/0.jpg)](https://www.youtube.com/watch?v=QK2daJjJUy0)
+[![Alt text](https://img.youtube.com/vi/_pq1S0hHXKE/0.jpg)](https://www.youtube.com/watch?v=_pq1S0hHXKE)
 
 
 ## Consider Donating - https://paypal.me/AbhinavRanish
